@@ -37,3 +37,20 @@ Salary Distribution: Right-skewed distribution indicating a concentration of ent
 Top Cities: Strong geographical preference for Tier-1 cities like Bangalore, Noida, and Hyderabad.
 
 Skill Correlation: Analyzed how technical modules correlate with the final CTC offered to candidates.
+
+### How to Run
+**Clone the repository:**
+   ```bash
+   git clone [https://github.com/chaithanya4-droid/AMCAT-DATA-ANALYSIS.git](https://github.com/chaithanya4-droid/AMCAT-DATA-ANALYSIS.git)
+Navigate to the project folder:
+
+Bash
+cd AMCAT-DATA-ANALYSIS
+Install the required libraries:
+
+Bash
+pip install pandas numpy matplotlib seaborn
+Launch Jupyter Notebook:
+
+Bash
+jupyter notebook
