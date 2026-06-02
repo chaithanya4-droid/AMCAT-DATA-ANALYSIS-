@@ -1,4 +1,4 @@
-# AMCAT-DATA-ANALYSIS-
+# AMCAT-DATA-ANALYSIS
 Project Overview
 This project performs an extensive Exploratory Data Analysis (EDA) on the AMCAT (Aspiring Minds Computer Adaptive Test) dataset. The analysis focuses on 3,998 engineering graduates to identify the key factors—such as education, location, and technical scores—that influence salary and employability in the Indian job market.
 
